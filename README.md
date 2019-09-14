@@ -1,7 +1,7 @@
 # RestDemo
 "# Rest-API" 
 1. Clone the application
-https://github.com/givanthak/spring-boot-rest-api-tutorial.git
+https://github.com/RakhiVineeth/RestDemo.git
 2. Create Mysql database
 create database employee_database
 3. Change mysql username and password as per your installation
